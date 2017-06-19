@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Mountain Mousse
 description: A most delicious beverage.
+show_downloads: false
