@@ -4,6 +4,5 @@ Ingredients:
   Mountain Dew
   LaCroix Pamplemouuse
 Directions:
-  Combine ingredients 50/50
-  Pour over ice
+  Blend ingredients 50/50 while pouring over ice
 ```
